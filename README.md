@@ -1,0 +1,2 @@
+# Huge-Company-V2
+Huge-Company-2 is the Second IDEA of how the Web-App/Website/Site should look like... If you want better looking versions then change the V2 to V1 or V3 in the URL. Thank You for Checking this REPO OUT!!!!
