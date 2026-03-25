@@ -1,5 +1,5 @@
 # Huge-Company-V2
-Huge-Company-V2 is the Fourth IDEA of how the Web-App/Website/Site should look like...
+Huge-Company-V2 is the Second IDEA of how the Web-App/Website/Site should look like...
 If you want different design styles then change the V2 to V3 or V4 or V1 in the URL. Thank You for Checking this REPO OUT!!
 
 
